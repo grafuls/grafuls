@@ -7,8 +7,6 @@
 Building the infrastructure layer for autonomous AI agents.
 Engineer at Red Hat · Founder of [Czerca](https://czerca.com)
 
-**Stack:** Python · Kubernetes · OpenShift · MCP · AWS/GCP · TypeScript · Chaos Engineering
-
 [LinkedIn](https://www.linkedin.com/in/grafuls) · [Czerca](https://czerca.com)
 
 </div>
