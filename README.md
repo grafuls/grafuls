@@ -7,21 +7,9 @@
 Building the infrastructure layer for autonomous AI agents.
 Engineer at Red Hat · Founder of [Czerca](https://czerca.com)
 
-<br/>
+**Stack:** Python · Kubernetes · OpenShift · MCP · AWS/GCP · TypeScript · Chaos Engineering
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://python.org)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)](https://kubernetes.io)
-[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white&style=flat-square)](https://www.openshift.com)
-[![MCP](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white&style=flat-square)](https://modelcontextprotocol.io)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)](https://aws.amazon.com)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)](https://cloud.google.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://typescriptlang.org)
-[![Chaos Engineering](https://img.shields.io/badge/Chaos_Engineering-616161?style=flat-square)](https://principlesofchaos.org)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grafuls-0A66C2?style=flat-square)](https://www.linkedin.com/in/grafuls)
-[![Czerca](https://img.shields.io/badge/czerca.com-1a1a1a?style=flat-square)](https://czerca.com)
+[LinkedIn](https://www.linkedin.com/in/grafuls) · [Czerca](https://czerca.com)
 
 </div>
 
