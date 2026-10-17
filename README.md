@@ -17,9 +17,9 @@ Engineer at Red Hat · Founder of [Czerca](https://czerca.com)
 
 | | |
 |---|---|
-| [**quads-mcp**](https://github.com/grafuls/quads-mcp) | Model Context Protocol server for infrastructure deployment and bare-metal management |
-| [**moltypods**](https://github.com/grafuls/moltypods) | AI agent marketplace and discovery platform |
-| [**czerca-site**](https://github.com/grafuls/czerca-site) | Enterprise agent infrastructure — Czerca corporate |
+| [**qiip**](https://github.com/grafuls/qiip) | Idle GPU recovery — finds unused GPU hardware and automates inference on it |
+| [**huncho**](https://github.com/grafuls/huncho) | Portable Rust serving engine for System One decision models |
+| [**quads**](https://github.com/redhat-performance/quads) | Infrastructure deployment time machine |
 
 ### Open Source
 
